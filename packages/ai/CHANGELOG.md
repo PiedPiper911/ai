@@ -1,5 +1,15 @@
 # ai
 
+## 7.0.27
+
+### Patch Changes
+
+- ac01b79: Allow validating assistant UI messages with empty parts so persisted errored responses remain loadable.
+- Updated dependencies [31c7be8]
+- Updated dependencies [4d096f6]
+  - @ai-sdk/provider-utils@5.0.10
+  - @ai-sdk/gateway@4.0.20
+
 ## 7.0.26
 
 ### Patch Changes
